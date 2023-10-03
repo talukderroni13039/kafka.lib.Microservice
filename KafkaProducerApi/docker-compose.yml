@@ -1,0 +1,9 @@
+version: '3.4'
+
+services:
+  kafkaproducerapi:
+    image: ${DOCKER_REGISTRY-}kafkaproducerapi
+    build:
+      context: .
+      dockerfile: Dockerfile
+

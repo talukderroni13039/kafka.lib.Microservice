@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+MokP/JBpIUug6R7V5zHGPOlmbrtPjPljHuK+NvehkQMF1E3gyQtoIWxcGAskVffNIXlqbBImj4mbnib4S0CdA==",
+  "success": true,
+  "projectFilePath": "E:\\Talukder\\Kafka.lib\\Kafka.Library\\Kafka.Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\confluent.kafka\\2.2.0\\confluent.kafka.2.2.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\librdkafka.redist\\2.2.0\\librdkafka.redist.2.2.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

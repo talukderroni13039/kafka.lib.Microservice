@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\AetosKafkaConsumer\\Kafka.ConsumerData\\Kafka.ConsumerData.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\AetosKafkaConsumer\\Kafka.ConsumerData\\Kafka.ConsumerData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\AetosKafkaConsumer\\Kafka.ConsumerData\\Kafka.ConsumerData.csproj",
+        "projectName": "Kafka.ConsumerData",
+        "projectPath": "D:\\Projects\\AetosKafkaConsumer\\Kafka.ConsumerData\\Kafka.ConsumerData.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\AetosKafkaConsumer\\Kafka.ConsumerData\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\R&D\\Kafka.Microservice_LIbrary\\Kafka.Library\\Kafka.Library.csproj": {
+                "projectPath": "D:\\R&D\\Kafka.Microservice_LIbrary\\Kafka.Library\\Kafka.Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\R&D\\Kafka.Microservice_LIbrary\\Kafka.Library\\Kafka.Library.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\R&D\\Kafka.Microservice_LIbrary\\Kafka.Library\\Kafka.Library.csproj",
+        "projectName": "Kafka.Library",
+        "projectPath": "D:\\R&D\\Kafka.Microservice_LIbrary\\Kafka.Library\\Kafka.Library.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}
