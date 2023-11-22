@@ -23,7 +23,8 @@ namespace Kafka.DataProcessor
                 _logger.LogInformation("Background service is starting For Consumer 1.", DateTime.Now);
                 try
                 {
-                    await consumeDataFromKafkaAsync(cancellationToken);
+
+                   await consumeDataFromKafkaAsync(cancellationToken);
 
                 }
                 catch (Exception ex)
@@ -45,7 +46,6 @@ namespace Kafka.DataProcessor
 
             // for multiple topic Consume onthis  
 
-
           while (!cancellationToken.IsCancellationRequested)
           {
             var consumeResult =  _KafkaConsumer.Consume(cancellationToken);
@@ -57,13 +57,12 @@ namespace Kafka.DataProcessor
                 */
 
                 if (consumeResult != null)
-                 {
+                {
                 // Process the consumed message here
                    Console.WriteLine($"Received message: {consumeResult.Message.Value}");
                 }
            }
         }
-
         public Task StopAsync(CancellationToken cancellationToken)
         {
             _logger.LogInformation("Background service is stopping.");

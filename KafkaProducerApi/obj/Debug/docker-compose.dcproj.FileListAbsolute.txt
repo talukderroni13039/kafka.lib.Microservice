@@ -54,11 +54,11 @@ D:\Projects\Kaka.Lib.Microservice\KafkaProducerApi\bin\Debug\Kafka.Library.pdb
 D:\Projects\Kaka.Lib.Microservice\KafkaProducerApi\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
 D:\Projects\Kaka.Lib.Microservice\KafkaProducerApi\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
 D:\Projects\Kaka.Lib.Microservice\KafkaProducerApi\obj\Debug\docker-compose.dcproj.CopyComplete
+E:\Talukder\Kafka.lib\KafkaProducerApi\bin\Debug\KafkaProducerApi.deps.json
+E:\Talukder\Kafka.lib\KafkaProducerApi\bin\Debug\KafkaProducerApi.runtimeconfig.json
 E:\Talukder\Kafka.lib\KafkaProducerApi\bin\Debug\appsettings.Development.json
 E:\Talukder\Kafka.lib\KafkaProducerApi\bin\Debug\appsettings.json
 E:\Talukder\Kafka.lib\KafkaProducerApi\bin\Debug\launchSettings.json
-E:\Talukder\Kafka.lib\KafkaProducerApi\bin\Debug\KafkaProducerApi.deps.json
-E:\Talukder\Kafka.lib\KafkaProducerApi\bin\Debug\KafkaProducerApi.runtimeconfig.json
 E:\Talukder\Kafka.lib\KafkaProducerApi\bin\Debug\KafkaProducerApi.exe
 E:\Talukder\Kafka.lib\KafkaProducerApi\bin\Debug\KafkaProducerApi.dll
 E:\Talukder\Kafka.lib\KafkaProducerApi\bin\Debug\Kafka.Library.dll

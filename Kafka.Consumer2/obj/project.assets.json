@@ -1607,11 +1607,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Talukder\\Kafka.lib\\Kafka.Consumer2\\Kafka.Consumer2.csproj",
+      "projectUniqueName": "D:\\R&D\\Kafka.lib\\Kafka.Consumer2\\Kafka.Consumer2.csproj",
       "projectName": "Kafka.Consumer2",
-      "projectPath": "E:\\Talukder\\Kafka.lib\\Kafka.Consumer2\\Kafka.Consumer2.csproj",
+      "projectPath": "D:\\R&D\\Kafka.lib\\Kafka.Consumer2\\Kafka.Consumer2.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "E:\\Talukder\\Kafka.lib\\Kafka.Consumer2\\obj\\",
+      "outputPath": "D:\\R&D\\Kafka.lib\\Kafka.Consumer2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1628,8 +1628,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Talukder\\Kafka.lib\\Kafka.Library\\Kafka.Library.csproj": {
-              "projectPath": "E:\\Talukder\\Kafka.lib\\Kafka.Library\\Kafka.Library.csproj"
+            "D:\\R&D\\Kafka.lib\\Kafka.Library\\Kafka.Library.csproj": {
+              "projectPath": "D:\\R&D\\Kafka.lib\\Kafka.Library\\Kafka.Library.csproj"
             }
           }
         }

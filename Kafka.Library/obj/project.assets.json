@@ -257,11 +257,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Talukder\\Kafka.lib\\Kafka.Library\\Kafka.Library.csproj",
+      "projectUniqueName": "D:\\R&D\\Kafka.lib\\Kafka.Library\\Kafka.Library.csproj",
       "projectName": "Kafka.Library",
-      "projectPath": "E:\\Talukder\\Kafka.lib\\Kafka.Library\\Kafka.Library.csproj",
+      "projectPath": "D:\\R&D\\Kafka.lib\\Kafka.Library\\Kafka.Library.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "E:\\Talukder\\Kafka.lib\\Kafka.Library\\obj\\",
+      "outputPath": "D:\\R&D\\Kafka.lib\\Kafka.Library\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

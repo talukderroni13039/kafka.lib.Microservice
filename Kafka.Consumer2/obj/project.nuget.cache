@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aAqIlFFJhUjLhQo6ljYr80ZpLJg3i5jD+wIW26YdJXzPUoSozst5qKt408z90YUQQ7TrpZxMq6OMccTtn44YHQ==",
+  "dgSpecHash": "2PnSOS16sCv5xuPuSKzLwmkdCN3iQfth/g0OvRThDWUVqtFDo3y1sn4/F/zGVmS8cz5fPoNDO9Y+vZTA3NXgmg==",
   "success": true,
-  "projectFilePath": "E:\\Talukder\\Kafka.lib\\Kafka.Consumer2\\Kafka.Consumer2.csproj",
+  "projectFilePath": "D:\\R&D\\Kafka.lib\\Kafka.Consumer2\\Kafka.Consumer2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\confluent.kafka\\2.2.0\\confluent.kafka.2.2.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\librdkafka.redist\\2.2.0\\librdkafka.redist.2.2.0.nupkg.sha512",

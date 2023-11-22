@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Kafka.Consumer1
-build_property.ProjectDir = D:\Projects\AetosKafkaConsumer\Kafka.DataProcessor\
+build_property.ProjectDir = E:\Talukder\Kafka.lib\Kafka.DataProcessor\
